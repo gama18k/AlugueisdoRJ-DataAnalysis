@@ -4,8 +4,8 @@ Este projeto realiza uma análise detalhada do mercado de aluguel de imóveis no
 
 ## Estrutura do Projeto
 
-- `notebook`': Jupyter Notebooks com análises e visualizações.
-- `data`: Arquivos de dados utilizados no estudo.
+- `notebook.ipynb`': Jupyter Notebooks com análises e visualizações.
+- `data.csv`: Arquivos de dados utilizados no estudo.
 - `README.md`: Este arquivo, que fornece informações gerais sobre o projeto.
 
 ## Tecnologias Utilizadas
